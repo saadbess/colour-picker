@@ -5,7 +5,7 @@ import beginningColours from './beginningColours';
 function App() {
   return (
     <div>
-      <Palette {...beginningColours[4]} />
+      <Palette {...beginningColours[6]} />
     </div>
   );
 }
